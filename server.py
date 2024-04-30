@@ -3,7 +3,7 @@ from  threading import Thread
 
 SERVER = None
 IP_ADDRESS = '127.0.0.1'
-PORT = 6000
+PORT = 8000
 
 CLIENTS = {}    
 
